@@ -1,0 +1,6 @@
+Revision history for Perl extension Chess::ICClib.
+
+0.01  Mon Jun  7 12:49:45 2004
+	- original version; created by h2xs 1.23 with options
+		-AX -n Chess::ICClib
+

@@ -1,0 +1,35 @@
+Chess-ICClib version 1.00
+=========================
+
+Chess::ICClib - Perl interface to Internet Chess Server commands.
+Provides a tool able to connect, login and send commands to an
+Internet Chess Server as well as return responses from the server.
+Can be used as a basis for information retrieval tool as well as
+for a player or a chess program interface.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+	Net::Telnet
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2004 by Roman M. Parparov
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.8.3 or,
+at your option, any later version of Perl 5 you may have available.
+
+The Internet Chess Servers are copyrighted separately by their
+owners.
+
